@@ -15,4 +15,5 @@ bubl=(arr)=>{
   
 }
 bubl(arr)
+
 console.log(arr);

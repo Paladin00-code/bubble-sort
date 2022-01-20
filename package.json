@@ -1,0 +1,11 @@
+{
+  "name": "bubble",
+  "version": "1.0.0",
+  "description": "sort bubble",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "I am",
+  "license": "ISC"
+}
